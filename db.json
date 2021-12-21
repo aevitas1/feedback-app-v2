@@ -12,13 +12,8 @@
     },
     {
       "text": "dsadasdasdasdas",
-      "rating": 3,
-      "id": 4
-    },
-    {
-      "text": "This is an updated item",
       "rating": 8,
-      "id": 6
+      "id": 4
     }
   ]
 }
